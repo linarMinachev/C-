@@ -1,0 +1,15 @@
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\bin\Debug\net6.0\ezxample001_HelloConsole.exe
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\bin\Debug\net6.0\ezxample001_HelloConsole.deps.json
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\bin\Debug\net6.0\ezxample001_HelloConsole.runtimeconfig.json
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\bin\Debug\net6.0\ezxample001_HelloConsole.dll
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\bin\Debug\net6.0\ezxample001_HelloConsole.pdb
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.AssemblyInfo.cs
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.dll
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\refint\ezxample001_HelloConsole.dll
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.pdb
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ezxample001_HelloConsole.genruntimeconfig.cache
+C:\Users\Blindstudio\Desktop\C\ezxample001_HelloConsole\obj\Debug\net6.0\ref\ezxample001_HelloConsole.dll
