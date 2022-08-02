@@ -1,0 +1,15 @@
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\bin\Debug\net6.0\example_Condition_ifelse.exe
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\bin\Debug\net6.0\example_Condition_ifelse.deps.json
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\bin\Debug\net6.0\example_Condition_ifelse.runtimeconfig.json
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\bin\Debug\net6.0\example_Condition_ifelse.dll
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\bin\Debug\net6.0\example_Condition_ifelse.pdb
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.csproj.AssemblyReference.cache
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.AssemblyInfoInputs.cache
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.AssemblyInfo.cs
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.dll
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\refint\example_Condition_ifelse.dll
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.pdb
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\example_Condition_ifelse.genruntimeconfig.cache
+C:\Users\Blindstudio\Desktop\C\example_Condition_ifelse\obj\Debug\net6.0\ref\example_Condition_ifelse.dll
