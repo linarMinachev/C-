@@ -1,0 +1,15 @@
+C:\Users\Blindstudio\Desktop\C\example007\bin\Debug\net6.0\example007.exe
+C:\Users\Blindstudio\Desktop\C\example007\bin\Debug\net6.0\example007.deps.json
+C:\Users\Blindstudio\Desktop\C\example007\bin\Debug\net6.0\example007.runtimeconfig.json
+C:\Users\Blindstudio\Desktop\C\example007\bin\Debug\net6.0\example007.dll
+C:\Users\Blindstudio\Desktop\C\example007\bin\Debug\net6.0\example007.pdb
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.csproj.AssemblyReference.cache
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.AssemblyInfoInputs.cache
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.AssemblyInfo.cs
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.csproj.CoreCompileInputs.cache
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.dll
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\refint\example007.dll
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.pdb
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\example007.genruntimeconfig.cache
+C:\Users\Blindstudio\Desktop\C\example007\obj\Debug\net6.0\ref\example007.dll
