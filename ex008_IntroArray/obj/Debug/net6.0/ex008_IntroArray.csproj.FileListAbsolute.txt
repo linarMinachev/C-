@@ -1,0 +1,15 @@
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.csproj.AssemblyReference.cache
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.AssemblyInfo.cs
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\bin\Debug\net6.0\ex008_IntroArray.exe
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\bin\Debug\net6.0\ex008_IntroArray.deps.json
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\bin\Debug\net6.0\ex008_IntroArray.runtimeconfig.json
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\bin\Debug\net6.0\ex008_IntroArray.dll
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\bin\Debug\net6.0\ex008_IntroArray.pdb
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.dll
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\refint\ex008_IntroArray.dll
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.pdb
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ex008_IntroArray.genruntimeconfig.cache
+C:\Users\Blindstudio\Desktop\C\ex008_IntroArray\obj\Debug\net6.0\ref\ex008_IntroArray.dll
