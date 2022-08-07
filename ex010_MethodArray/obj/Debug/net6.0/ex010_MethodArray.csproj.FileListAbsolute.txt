@@ -1,0 +1,15 @@
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.AssemblyInfo.cs
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\bin\Debug\net6.0\ex010_MethodArray.exe
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\bin\Debug\net6.0\ex010_MethodArray.deps.json
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\bin\Debug\net6.0\ex010_MethodArray.runtimeconfig.json
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\bin\Debug\net6.0\ex010_MethodArray.dll
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\bin\Debug\net6.0\ex010_MethodArray.pdb
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.dll
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\refint\ex010_MethodArray.dll
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.pdb
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ex010_MethodArray.genruntimeconfig.cache
+C:\Users\Blindstudio\Desktop\C\ex010_MethodArray\obj\Debug\net6.0\ref\ex010_MethodArray.dll
