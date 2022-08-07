@@ -1,0 +1,15 @@
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\bin\Debug\net6.0\ex011_ArrayLibrary.exe
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\bin\Debug\net6.0\ex011_ArrayLibrary.deps.json
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\bin\Debug\net6.0\ex011_ArrayLibrary.runtimeconfig.json
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\bin\Debug\net6.0\ex011_ArrayLibrary.dll
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\bin\Debug\net6.0\ex011_ArrayLibrary.pdb
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.dll
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\refint\ex011_ArrayLibrary.dll
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.pdb
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ex011_ArrayLibrary.genruntimeconfig.cache
+C:\Users\Blindstudio\Desktop\C\ex011_ArrayLibrary\obj\Debug\net6.0\ref\ex011_ArrayLibrary.dll
