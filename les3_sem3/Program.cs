@@ -104,11 +104,9 @@
 
 int numberN = ReadInt("Введите число: ");
 
-int sqr = 1;
-for (int i = sqr; i <= numberN; i++)
+for (int i = 1; i <= numberN; i++)
 { 
-    sqr = i * i;
-    Console.Write($"{sqr},");
+    Console.Write($"{i*i} ");
 }
 
 // Функция ввода сообщения
