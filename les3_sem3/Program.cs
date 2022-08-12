@@ -108,7 +108,7 @@ int sqr = 1;
 for (int i = sqr; i <= numberN; i++)
 { 
     sqr = i * i;
-    Console.WriteLine(sqr);
+    Console.Write($"{sqr},");
 }
 
 // Функция ввода сообщения
